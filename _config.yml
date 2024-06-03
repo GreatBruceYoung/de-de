@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "杨浩霄"
 description              : "遥感科学与技术"
-repository               : "GreatBruceYoung/greatbruceyoung.github.io/zh-cn"
+repository               : "GreatBruceYoung/greatbruceyoung.github.io/de-de"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "杨浩霄"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo_new.png"
   bio              : "武汉大学/慕尼黑工业大学"
   location         : "德国 巴伐利亚州 慕尼黑"
   employer         : #"None"
