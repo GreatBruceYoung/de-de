@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "杨浩霄"
-description              : "遥感科学与技术"
+title                    : "Haoxiao Yang"
+description              : "Navigation und Lokalisation"
 repository               : "GreatBruceYoung/greatbruceyoung.github.io/de-de"
 google_scholar_stats_use_cdn : false
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "杨浩霄"
-  avatar           : "images/photo_new.png"
-  bio              : "武汉大学/慕尼黑工业大学"
-  location         : "德国 巴伐利亚州 慕尼黑"
+  name             : "Haoxiao Yang"
+  avatar           : "images/photo_new.jpg"
+  bio              : "Technische Universität München"
+  location         : "München, Deutschland"
   employer         : #"None"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bsoUm7sAAAAJ"
-  email            : "yanghaoxiao@whu.edu.cn"
+  email            : "haoxiao.yang@tum.de"
   researchgate     : "https://www.researchgate.net/profile/Haoxiao-Yang"
   uri              : 
   bitbucket        :
